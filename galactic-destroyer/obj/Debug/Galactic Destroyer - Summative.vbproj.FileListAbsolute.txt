@@ -1,0 +1,34 @@
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe.config
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.pdb
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.xml
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.gameWindow.resources
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.Resources.resources
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.vbproj.GenerateResource.Cache
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.exe
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.xml
+d:\lukas romsicki\my documents\visual studio 2012\Projects\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.pdb
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe.config
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.exe
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.xml
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.pdb
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.pdb
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.xml
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.gameWindow.resources
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.Resources.resources
+P:\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.vbproj.GenerateResource.Cache
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe.config
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.exe
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.xml
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.pdb
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.exe
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.pdb
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Galactic Destroyer - Summative.xml
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.gameWindow.resources
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.Resources.resources
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic Destroyer - Summative.vbproj.GenerateResource.Cache
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.mainMenuWindow.resources
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.cmdLine.resources
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\obj\Debug\Galactic_Destroyer___Summative.helpWindow.resources
+D:\Lukas Romsicki\Desktop\Galactic Destroyer - Summative (2)\Galactic Destroyer - Summative\Galactic Destroyer - Summative\Galactic Destroyer - Summative\bin\Debug\Resources\PrintChar21.ttf
