@@ -11,7 +11,6 @@ This program is intended to be a retro-styled game, much like the existing game 
 
 ## License
 All source code, design, and ideas are a copyright of Lukas Romsicki and contributors.
-Galactic Destroyer is free software made available under the MIT License.
 
 ## Screenshots
 <img src="/screenshots/screenshot1.png" alt="screenshot1" width="250px" />
